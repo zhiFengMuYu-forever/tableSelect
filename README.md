@@ -1,5 +1,5 @@
 # tableselect
-
+element-ui没有tableSelect组件，这是通过element-ui组件库的Popover 弹出框组件和table表组件组合而成。
 ## Project setup
 ```
 npm install
